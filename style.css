@@ -1,4 +1,4 @@
-* {
+.container-fluid {
     background-image: url("https://images.unsplash.com/photo-1494243762909-b498c7e440a9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=680791b120873042909ebf5c552024f1&auto=format&fit=crop&w=1350&q=80");
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,7 +16,11 @@ ul {
 	list-style: none;
 }
 h1.glyphicon.glyphicon-leaf {
-	margin-top: 1300px;
-	margin-left: 70px;
+	margin-top: 1350px;
+	margin-left: 140px;
 	font-size: 5em;
+	position: sticky;
+}
+a {
+	opacity: 1;
 }
