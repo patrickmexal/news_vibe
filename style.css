@@ -15,3 +15,8 @@ ul {
 	float: right;
 	list-style: none;
 }
+h1.glyphicon.glyphicon-leaf {
+	margin-top: 1300px;
+	margin-left: 70px;
+	font-size: 5em;
+}
