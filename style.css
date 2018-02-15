@@ -19,7 +19,11 @@ h1.glyphicon.glyphicon-leaf {
 	margin-top: 60px;
 	margin-left: 150px;
 	font-size: 5em;
+	color: black;
 	position: sticky;
+}
+h1.glyphicon.glyphicon-leaf:hover {
+	color: white;
 }
 a {
 	opacity: 1;
